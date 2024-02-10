@@ -11,7 +11,7 @@
 <a href="https://sitehoolix.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div><br>
 
-![alt text](image.png)
+![alt text](preview.jpg)
 
 
 <b>Desenvolvimento:</b>
