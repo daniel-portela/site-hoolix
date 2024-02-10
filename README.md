@@ -13,6 +13,9 @@
 
 ![preview](https://github.com/daniel-portela/site-hoolix/assets/110783805/d8eb0e24-366c-4ad4-990f-a49d129f8a37)
 
+![README (1)](https://github.com/daniel-portela/site-hoolix/assets/110783805/8468dabf-1456-456b-86f0-6f0156f4c2c8)
+
+
 
 
 <b>Desenvolvimento:</b>
