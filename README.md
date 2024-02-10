@@ -13,6 +13,10 @@
 
 ![alt text](preview.jpg)
 
+![alt text](preview-responsive.jpg)
+
+
+
 
 <b>Desenvolvimento:</b>
 
@@ -73,4 +77,3 @@ Compromisso com a melhoria contínua do projeto, incluindo atualizações regula
 <a href="https://www.behance.net/danielengineer_" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-behance-05122A?style=flat&logo=behance" alt="behance"/>
 </a>
-
