@@ -11,7 +11,8 @@
 <a href="https://sitehoolix.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div><br>
 
-![alt text](preview.jpg)
+![preview](https://github.com/daniel-portela/site-hoolix/assets/110783805/d8eb0e24-366c-4ad4-990f-a49d129f8a37)
+
 
 
 <b>Desenvolvimento:</b>
