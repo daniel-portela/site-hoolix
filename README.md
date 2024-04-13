@@ -8,14 +8,12 @@
 
 <p>O Hoolix é um projeto dedicado à criação e design de soluções inovadoras para impulsionar marcas rumo ao sucesso. Desenvolvi estratégias criativas e ofereci serviços que abrangem desde a pesquisa inicial até a implementação, visando proporcionar experiências únicas para os usuários.</p>
 
-<a href="https://sitehoolix.netlify.app/"><strong>Demonstração ao vivo</strong></a>
+<a href="https://sitehoolix.netlify.app/">Demonstração ao vivo</a>
 </div><br>
 
 ![preview](https://github.com/daniel-portela/site-hoolix/assets/110783805/262a446a-a5ec-4ebd-8372-f05d05f882c1)
 
-
 ![preview-responsive](https://github.com/daniel-portela/site-hoolix/assets/110783805/24f0108c-b946-40f7-ade5-828d87a5b4ed)
-
 
 
 <b>Desenvolvimento:</b>
@@ -61,19 +59,8 @@ Manutenibilidade do código:
 
 Compromisso com a melhoria contínua do projeto, incluindo atualizações regulares de conteúdo e refinamento do design conforme necessário.
 
-<br><b>Contato:</b>
+<b>Contato:</b>
 
-<p>Se você quiser entrar em contato comigo, sinta-se a vontade.</p> 
+Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
 
-<a href="https://linkedin.com/in/danielengineer" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
- <a href="https://instagram.com/danielengineer_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/ - Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
- <a href="https://wa.me/77999109489" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
-</a>
-<a href="https://www.behance.net/danielengineer_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-behance-05122A?style=flat&logo=behance" alt="behance"/>
-</a>
+Email: <a href="mailto:danielportela.ti@gmail.com"> danielportela.ti@gmail.com</a> 
