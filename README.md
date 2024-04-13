@@ -9,12 +9,12 @@
 <p>O Hoolix é um projeto dedicado à criação e design de soluções inovadoras para impulsionar marcas rumo ao sucesso. Desenvolvi estratégias criativas e ofereci serviços que abrangem desde a pesquisa inicial até a implementação, visando proporcionar experiências únicas para os usuários.</p>
 
 <a href="https://sitehoolix.netlify.app/">Demonstração ao vivo</a>
-</div><br>
+
+</div>
 
 ![preview](https://github.com/daniel-portela/site-hoolix/assets/110783805/262a446a-a5ec-4ebd-8372-f05d05f882c1)
 
 ![preview-responsive](https://github.com/daniel-portela/site-hoolix/assets/110783805/24f0108c-b946-40f7-ade5-828d87a5b4ed)
-
 
 <b>Desenvolvimento:</b>
 
@@ -22,11 +22,11 @@ Este projeto foi desenvolvido utilizando tecnologias web padrão, incluindo HTML
 
 <b>Principais recursos:</b>
 
-UI/UX Creative Design: 
+UI/UX Creative Design:
 
 Criei designs de interface de usuário (UI) e experiência do usuário (UX) que não apenas atendem às necessidades funcionais, mas também encantam e cativam os usuários.
 
-Design Gráfico: 
+Design Gráfico:
 
 Criei designs visualmente atraentes e eficazes, seguindo um processo cuidadoso para garantir resultados de alta qualidade.
 
@@ -63,4 +63,4 @@ Compromisso com a melhoria contínua do projeto, incluindo atualizações regula
 
 Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
 
-Email: <a href="mailto:danielportela.ti@gmail.com"> danielportela.ti@gmail.com</a> 
+Email: <a href="mailto:danielportela.ti@gmail.com"> danielportela.ti@gmail.com</a>

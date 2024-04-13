@@ -13,8 +13,8 @@
   --white: hsl(0, 0%, 100%);
   --jet: hsl(0, 0%, 18%);
 
-  --ff-poppins: 'Poppins', sans-serif;
-  --ff-cuprum: 'Cuprum', sans-serif;
+  --ff-poppins: "Poppins", sans-serif;
+  --ff-cuprum: "Cuprum", sans-serif;
 
   --fs-1: 4.5rem;
   --fs-2: 3.6rem;
@@ -417,7 +417,7 @@ body {
 }
 
 .hero-banner,
-.hero-banner>img {
+.hero-banner > img {
   border-radius: 50%;
 }
 
@@ -427,7 +427,7 @@ body {
   transform: translate(-50%, -50%);
   width: 120%;
   height: 120%;
-  background-image: url('../images/hero-pattern.svg');
+  background-image: url("../images/hero-pattern.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -669,7 +669,7 @@ body {
   margin-block: 15px;
 }
 
-.faq-card .card-action.active+.card-content {
+.faq-card .card-action.active + .card-content {
   max-height: 500px;
 }
 
@@ -744,7 +744,7 @@ body {
   margin-block-start: 15px;
 }
 
-.footer-item>ion-icon {
+.footer-item > ion-icon {
   flex-shrink: 0;
   color: var(--go-green);
   font-size: 20px;
@@ -809,7 +809,6 @@ body {
   color: var(--go-green);
 }
 
-
 @media (min-width: 575px) {
   :root {
     --fs-1: 5.4rem;
@@ -840,9 +839,7 @@ body {
   .service-card .btn-link {
     justify-content: flex-start;
   }
-
 }
-
 
 @media (min-width: 768px) {
   :root {
@@ -879,7 +876,6 @@ body {
   .footer-top .container {
     grid-template-columns: 1fr 1fr;
   }
-
 }
 
 @media (min-width: 992px) {
@@ -978,14 +974,12 @@ body {
   .copyright {
     margin-block-end: 0;
   }
-
 }
 
 @media (min-width: 1200px) {
   :root {
     --fs-1: 7.5rem;
     --fs-4: 3.8rem;
-
   }
 
   .container {
@@ -1006,8 +1000,7 @@ body {
     grid-template-columns: 1fr 0.7fr;
   }
 
-  .faq-card .card-action.active+.card-content {
+  .faq-card .card-action.active + .card-content {
     max-height: 200px;
   }
-
 }
