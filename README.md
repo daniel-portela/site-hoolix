@@ -1,26 +1,25 @@
 <div align="center">
 
-<b>Projeto de site Hoolix</b>
-
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
+Projeto de <a href="https://sitehoolix.netlify.app/">site Hoolix</a>
 
 <p>O Hoolix é um projeto dedicado à criação e design de soluções inovadoras para impulsionar marcas rumo ao sucesso. Desenvolvi estratégias criativas e ofereci serviços que abrangem desde a pesquisa inicial até a implementação, visando proporcionar experiências únicas para os usuários.</p>
-
-<a href="https://sitehoolix.netlify.app/">Demonstração ao vivo</a>
-
 </div>
 
 ![preview](https://github.com/daniel-portela/site-hoolix/assets/110783805/262a446a-a5ec-4ebd-8372-f05d05f882c1)
 
 ![preview-responsive](https://github.com/daniel-portela/site-hoolix/assets/110783805/24f0108c-b946-40f7-ade5-828d87a5b4ed)
 
-<b>Desenvolvimento:</b>
+👨🏼‍💻 <b>Tecnologias utilizadas:</b>
+
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;<hr>
+
+👨🏼‍💻 <b>Desenvolvimento:</b>
 
 Este projeto foi desenvolvido utilizando tecnologias web padrão, incluindo HTML, CSS e JavaScript. Foi implementado com um design responsivo, garantindo que o Hoolix seja acessível e funcione perfeitamente em todos os dispositivos, desde desktops até smartphones.<br><br>
 
-<b>Principais recursos:</b>
+🛠️ <b>Principais recursos:</b>
 
 UI/UX Creative Design:
 
@@ -59,7 +58,7 @@ Manutenibilidade do código:
 
 Compromisso com a melhoria contínua do projeto, incluindo atualizações regulares de conteúdo e refinamento do design conforme necessário.
 
-<b>Contato:</b>
+✉️ <b>Contato:</b>
 
 Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
 
